@@ -1,0 +1,28 @@
+192.168.1.223 - Furhat's Ip Address
+true - Lipsync activated (true or false)
+40 - number of miliseconds before updating animations in Furhat)
+0.01 - blendshape threshold to animate furhat
+0.05 - Duration of each blendshape change in miliseconds
+3 - zed camera resolution (0 = HD2K, 1 = HD1080, 3 = HD720, 5 = VGA)
+60 - zed camera framerate
+1 - Lipsynch multiplier for PP
+1 - Lipsynch multiplier for FF
+1 - Lipsynch multiplier for TH
+1 - Lipsynch multiplier for DD
+1 - Lipsynch multiplier for kk
+1 - Lipsynch multiplier for CH
+1 - Lipsynch multiplier for SS
+1 - Lipsynch multiplier for nn
+1 - Lipsynch multiplier for RR
+1 - Lipsynch multiplier for aa
+1 - Lipsynch multiplier for E
+1 - Lipsynch multiplier for ih
+1 - Lipsynch multiplier for oh
+1 - Lipsynch multiplier for ou
+100 - Gaze multiplier Pan
+100 - Gaze multiplier Tilt
+100 - Gaze multiplier Roll
+0 - Gaze calibration/translate Pan
+0 - Gaze calibration/translate Tilt
+0 - Gaze calibration/translate Roll
+false - Blink the same with both eyes
